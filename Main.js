@@ -63,7 +63,7 @@ function esperar(ms) {
 }
 
 async function iniciarAlbum() {
-  const audio = new Audio("./Song.mp3");
+  const audio = new Audio("./Song1.mp3");
 
   audio.volume = 1;
 
