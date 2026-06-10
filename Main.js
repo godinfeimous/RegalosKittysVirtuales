@@ -168,7 +168,7 @@ async function iniciarAlbum() {
 
   Object.assign(marco.style, {
     position: "relative",
-    background: "#fff",
+    background: "#e99ff3",
     padding: "15px 15px 70px 15px",
     borderRadius: "10px",
     boxShadow: `
